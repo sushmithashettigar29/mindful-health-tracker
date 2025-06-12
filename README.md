@@ -50,12 +50,7 @@ Watch the full walkthrough here:
 ---
 
 ## 📂 Project Structure
-mindful-health/
-├── .streamlit/
-│   └── config.toml
-├── health_data.csv
-├── mindful_health.py
-└── README.md
+<pre lang="bash"><code>```bash mindful-health/ ├── .streamlit/ │ └── config.toml ├── health_data.csv ├── mindful_health.py └── README.md ```</code></pre>
 
 ---
 
@@ -73,10 +68,15 @@ git clone https://github.com/sushmithashettigar29/mindful-health-tracker.git
 cd mindful-health-tracker
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+Or install packages manually:
+
+```bash
+pip install streamlit pandas matplotlib seaborn
 
 ```
-Or install packages manually:
-pip install streamlit pandas matplotlib seaborn
+
 
 ## 📝 License
 
