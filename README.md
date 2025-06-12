@@ -2,6 +2,10 @@
 
 **MindfulHealth** is a beginner-friendly, fully interactive health tracker app built with **Python** and **Streamlit**. It helps users log and visualize their daily health habits—such as water intake, sleep, exercise, and mood—while offering calming mindfulness features like breathing exercises and motivational quotes.
 
+## 🌐 Live Demo
+
+[👉 Click here to try MindfulHealth Live!](https://mindful-health-tracker.streamlit.app)
+
 ---
 
 ## 🚀 Features
