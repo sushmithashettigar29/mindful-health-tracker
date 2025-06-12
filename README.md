@@ -46,11 +46,19 @@ Watch the full walkthrough here:
 
 ## 📸 Screenshots
 
-> Add screenshots or demo GIFs of:
->
-> - Daily Check-in
-> - Graph visualizations
-> - Breathing exercises
+### Daily Tracker Page
+
+![Daily Tracker](./assets//dailytracker.png)
+
+### Progress Graphs Page
+
+![Progress Graph Section](./assets/progressgraph.png)
+![Mood Distribution Section](./assets/mooddistribution.png)
+![Weekly Report Section](./assets/weeklyavg.png)
+
+### Mindful Minutes Page
+
+![Mindful Minutes Page](./assets/mindfulminutes.png)
 
 ---
 
@@ -79,11 +87,10 @@ mindful-health/
 ```bash
 git clone https://github.com/sushmithashettigar29/mindful-health-tracker.git
 cd mindful-health-tracker
-pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Or install packages manually:
+install packages manually:
 
 ```bash
 pip install streamlit pandas matplotlib seaborn
@@ -103,6 +110,12 @@ Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
 
 ---
+
+## 🙏 Acknowledgements
+
+- Built for Hack4Health 2025
+- Powered by Streamlit
+- Inspired by the importance of daily wellness & habit tracking
 
 ## 💬 Contact
 
